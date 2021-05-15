@@ -1,10 +1,11 @@
 # ProyectoAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
 
 Web en relación con el repositorio backendnodeJS en el que realizo un portafolio personal.
 - Página con proyectos que cargan de la base de datos en los que puedes editar sus datos directamente desde un formulario.
 - Página en la que puedes crear nuevos proyectos y subirlos a la BBDD incluyendo imágenes y página individual de proyectos.
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
 
 
 ## Development server
