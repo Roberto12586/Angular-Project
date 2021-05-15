@@ -5,6 +5,9 @@ Web en relación con el repositorio backendnodeJS en el que realizo un portafoli
 - Página con proyectos que cargan de la base de datos en los que puedes editar sus datos directamente desde un formulario.
 - Página en la que puedes crear nuevos proyectos y subirlos a la BBDD incluyendo imágenes y página individual de proyectos.
 
+![Animation](https://user-images.githubusercontent.com/38353024/118357230-5237f000-b579-11eb-9a60-9ebd2504c243.gif)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
 
 
