@@ -2,6 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
 
+Web en relación con el repositorio backendnodeJS en el que realizo un portafolio personal.
+- Página con proyectos que cargan de la base de datos en los que puedes editar sus datos directamente desde un formulario.
+- Página en la que puedes crear nuevos proyectos y subirlos a la BBDD incluyendo imágenes y página individual de proyectos.
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
